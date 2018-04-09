@@ -1,0 +1,835 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-03-14T15:17:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/51773422",
+        "highway": "residential",
+        "junction": "roundabout"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.5164585,
+            47.2057312
+          ],
+          [
+            7.5164075,
+            47.2057212
+          ],
+          [
+            7.5163751,
+            47.2057037
+          ],
+          [
+            7.5163465,
+            47.205665
+          ],
+          [
+            7.5163449,
+            47.2056384
+          ]
+        ]
+      },
+      "id": "way/51773422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/51773642",
+        "highway": "residential",
+        "junction": "roundabout",
+        "source": "Orthofoto WMS SO!GIS"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.5177325,
+            47.2105041
+          ],
+          [
+            7.5177459,
+            47.2105347
+          ],
+          [
+            7.5177386,
+            47.2105738
+          ],
+          [
+            7.5177054,
+            47.2106075
+          ],
+          [
+            7.5176639,
+            47.210625
+          ],
+          [
+            7.5176098,
+            47.2106303
+          ],
+          [
+            7.5175493,
+            47.2106166
+          ],
+          [
+            7.5175121,
+            47.2105915
+          ],
+          [
+            7.517492,
+            47.2105546
+          ],
+          [
+            7.5175068,
+            47.2105018
+          ],
+          [
+            7.5175605,
+            47.2104665
+          ]
+        ]
+      },
+      "id": "way/51773642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/120914677",
+        "highway": "residential",
+        "junction": "roundabout"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.5163449,
+            47.2056384
+          ],
+          [
+            7.516357,
+            47.2056113
+          ],
+          [
+            7.5163831,
+            47.2055876
+          ],
+          [
+            7.516434,
+            47.2055684
+          ],
+          [
+            7.5164797,
+            47.205566
+          ]
+        ]
+      },
+      "id": "way/120914677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/120926876",
+        "highway": "residential",
+        "junction": "roundabout",
+        "source": "Orthofoto WMS SO!GIS"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.5175605,
+            47.2104665
+          ],
+          [
+            7.5176012,
+            47.2104578
+          ],
+          [
+            7.5176887,
+            47.2104711
+          ],
+          [
+            7.5177325,
+            47.2105041
+          ]
+        ]
+      },
+      "id": "way/120926876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/120926981",
+        "highway": "primary",
+        "junction": "roundabout",
+        "maxspeed": "50",
+        "ref": "5",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.5263459,
+            47.210712
+          ],
+          [
+            7.5264212,
+            47.2107066
+          ],
+          [
+            7.5265044,
+            47.2107298
+          ],
+          [
+            7.5265516,
+            47.2107688
+          ]
+        ]
+      },
+      "id": "way/120926981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/120953602",
+        "highway": "primary",
+        "junction": "roundabout",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.5413078,
+            47.2093906
+          ],
+          [
+            7.5413719,
+            47.209395
+          ],
+          [
+            7.5414134,
+            47.2094041
+          ],
+          [
+            7.5414536,
+            47.2094253
+          ]
+        ]
+      },
+      "id": "way/120953602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170145488",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "highway": "primary",
+        "junction": "roundabout",
+        "ref": "12",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.5441731,
+            47.2027413
+          ],
+          [
+            7.5441701,
+            47.2026786
+          ],
+          [
+            7.5442081,
+            47.2026359
+          ],
+          [
+            7.5442781,
+            47.2026102
+          ],
+          [
+            7.5443687,
+            47.2026163
+          ]
+        ]
+      },
+      "id": "way/170145488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/249754412",
+        "highway": "primary",
+        "junction": "roundabout",
+        "maxspeed": "50",
+        "ref": "5",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.5265516,
+            47.2107688
+          ],
+          [
+            7.5265696,
+            47.2108167
+          ],
+          [
+            7.526561,
+            47.2108567
+          ],
+          [
+            7.5265274,
+            47.2108964
+          ],
+          [
+            7.5264665,
+            47.2109261
+          ]
+        ]
+      },
+      "id": "way/249754412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/249754414",
+        "highway": "primary",
+        "junction": "roundabout",
+        "maxspeed": "50",
+        "ref": "5",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.5262454,
+            47.2108649
+          ],
+          [
+            7.5262322,
+            47.2108224
+          ],
+          [
+            7.5262497,
+            47.2107695
+          ],
+          [
+            7.5262839,
+            47.2107378
+          ],
+          [
+            7.5263459,
+            47.210712
+          ]
+        ]
+      },
+      "id": "way/249754414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/249754417",
+        "highway": "primary",
+        "junction": "roundabout",
+        "maxspeed": "50",
+        "ref": "5",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.5264665,
+            47.2109261
+          ],
+          [
+            7.5264106,
+            47.2109349
+          ],
+          [
+            7.5263495,
+            47.2109296
+          ],
+          [
+            7.5262828,
+            47.2109023
+          ],
+          [
+            7.5262454,
+            47.2108649
+          ]
+        ]
+      },
+      "id": "way/249754417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/250443763",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "highway": "primary",
+        "junction": "roundabout",
+        "ref": "12",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.5444485,
+            47.2027371
+          ],
+          [
+            7.5444129,
+            47.2027768
+          ],
+          [
+            7.5443517,
+            47.2028017
+          ]
+        ]
+      },
+      "id": "way/250443763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/250443764",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "highway": "primary",
+        "junction": "roundabout",
+        "ref": "12",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.5443687,
+            47.2026163
+          ],
+          [
+            7.5444194,
+            47.2026416
+          ],
+          [
+            7.5444524,
+            47.2026866
+          ],
+          [
+            7.5444485,
+            47.2027371
+          ]
+        ]
+      },
+      "id": "way/250443764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/250443765",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "highway": "primary",
+        "junction": "roundabout",
+        "ref": "12",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.5443517,
+            47.2028017
+          ],
+          [
+            7.5442745,
+            47.202803
+          ],
+          [
+            7.5442147,
+            47.2027819
+          ],
+          [
+            7.5441731,
+            47.2027413
+          ]
+        ]
+      },
+      "id": "way/250443765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/277371708",
+        "highway": "primary",
+        "junction": "roundabout",
+        "maxspeed": "50",
+        "ref": "12;22"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.5372656,
+            47.2034602
+          ],
+          [
+            7.5372109,
+            47.203429
+          ],
+          [
+            7.5371764,
+            47.2033771
+          ],
+          [
+            7.5371787,
+            47.2033272
+          ],
+          [
+            7.5371996,
+            47.2032901
+          ]
+        ]
+      },
+      "id": "way/277371708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/277371710",
+        "highway": "primary",
+        "junction": "roundabout",
+        "maxspeed": "50",
+        "ref": "12;22"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.5374691,
+            47.203448
+          ],
+          [
+            7.537367,
+            47.2034736
+          ],
+          [
+            7.5372656,
+            47.2034602
+          ]
+        ]
+      },
+      "id": "way/277371710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/298366532",
+        "highway": "primary",
+        "junction": "roundabout",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.5412102,
+            47.209448
+          ],
+          [
+            7.5412559,
+            47.2094118
+          ],
+          [
+            7.5413078,
+            47.2093906
+          ]
+        ]
+      },
+      "id": "way/298366532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/298366533",
+        "highway": "primary",
+        "junction": "roundabout",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.5414536,
+            47.2094253
+          ],
+          [
+            7.541483,
+            47.2094553
+          ],
+          [
+            7.5415035,
+            47.2094868
+          ],
+          [
+            7.5415131,
+            47.2095142
+          ],
+          [
+            7.5415159,
+            47.2095548
+          ],
+          [
+            7.5415005,
+            47.2095946
+          ]
+        ]
+      },
+      "id": "way/298366533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/298366534",
+        "highway": "primary",
+        "junction": "roundabout",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.5412701,
+            47.209608
+          ],
+          [
+            7.541229,
+            47.2095765
+          ],
+          [
+            7.5412066,
+            47.2095419
+          ],
+          [
+            7.5411931,
+            47.2095091
+          ],
+          [
+            7.5411964,
+            47.2094788
+          ],
+          [
+            7.5412102,
+            47.209448
+          ]
+        ]
+      },
+      "id": "way/298366534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/298366535",
+        "highway": "primary",
+        "junction": "roundabout",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.5415005,
+            47.2095946
+          ],
+          [
+            7.5414805,
+            47.2096107
+          ],
+          [
+            7.5414467,
+            47.2096262
+          ],
+          [
+            7.5413614,
+            47.2096379
+          ],
+          [
+            7.5412936,
+            47.2096184
+          ],
+          [
+            7.5412701,
+            47.209608
+          ]
+        ]
+      },
+      "id": "way/298366535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/335328525",
+        "highway": "residential",
+        "junction": "roundabout"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.5164797,
+            47.205566
+          ],
+          [
+            7.5165353,
+            47.2055802
+          ],
+          [
+            7.5165689,
+            47.2056038
+          ],
+          [
+            7.5165881,
+            47.2056457
+          ]
+        ]
+      },
+      "id": "way/335328525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/335328526",
+        "highway": "residential",
+        "junction": "roundabout"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.5165881,
+            47.2056457
+          ],
+          [
+            7.5165801,
+            47.205678
+          ],
+          [
+            7.5165546,
+            47.2057055
+          ],
+          [
+            7.5165142,
+            47.2057246
+          ],
+          [
+            7.5164585,
+            47.2057312
+          ]
+        ]
+      },
+      "id": "way/335328526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/339771874",
+        "highway": "primary",
+        "junction": "roundabout",
+        "maxspeed": "50",
+        "ref": "12;22"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.5371996,
+            47.2032901
+          ],
+          [
+            7.5372739,
+            47.2032483
+          ],
+          [
+            7.5373724,
+            47.2032382
+          ],
+          [
+            7.5374473,
+            47.2032581
+          ]
+        ]
+      },
+      "id": "way/339771874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/341567712",
+        "highway": "primary",
+        "junction": "roundabout",
+        "maxspeed": "50",
+        "ref": "12;22"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.5374473,
+            47.2032581
+          ],
+          [
+            7.537496,
+            47.2032927
+          ],
+          [
+            7.5375181,
+            47.2033286
+          ],
+          [
+            7.5375079,
+            47.2034035
+          ],
+          [
+            7.5374691,
+            47.203448
+          ]
+        ]
+      },
+      "id": "way/341567712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/291378025",
+        "highway": "mini_roundabout"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.522506,
+          47.2058598
+        ]
+      },
+      "id": "node/291378025"
+    }
+  ]
+}

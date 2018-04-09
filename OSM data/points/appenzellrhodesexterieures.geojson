@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32632" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "node\/290986091", "@id": "node\/290986091", "highway": "mini_roundabout", "junction": null, "maxspeed": null, "name": null, "surface": null, "lanes": null, "loc_ref": null, "nat_ref": null, "note": null, "source": null, "sidewalk": null }, "geometry": { "type": "Point", "coordinates": [ 523176.281762653030455, 5248293.76636145170778 ] } }
+]
+}

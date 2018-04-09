@@ -1,0 +1,1128 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-03-14T15:21:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/9347418",
+        "cycleway:both": "no",
+        "highway": "tertiary",
+        "junction": "roundabout",
+        "lit": "yes",
+        "maxspeed": "50",
+        "note": "Richtplankategorie: Regionale Verbindungsstrasse (RVS)",
+        "owner": "Kanton Zürich",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.538316,
+            47.4216354
+          ],
+          [
+            8.5382433,
+            47.4216104
+          ],
+          [
+            8.5382149,
+            47.4215834
+          ],
+          [
+            8.538202,
+            47.4215485
+          ],
+          [
+            8.5382271,
+            47.4214905
+          ],
+          [
+            8.5382723,
+            47.4214631
+          ],
+          [
+            8.538331,
+            47.4214516
+          ],
+          [
+            8.5384197,
+            47.4214693
+          ],
+          [
+            8.5384618,
+            47.4215034
+          ],
+          [
+            8.5384749,
+            47.4215544
+          ],
+          [
+            8.5384245,
+            47.4216163
+          ],
+          [
+            8.5383746,
+            47.4216335
+          ],
+          [
+            8.538316,
+            47.4216354
+          ]
+        ]
+      },
+      "id": "way/9347418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/10559093",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "maxspeed": "60",
+        "name": "Birchstrasse",
+        "note": "Richtplankategorie: Hauptverkehrsstrasse (HVS); Hauptstrasse ohne Nummerntafel",
+        "owner": "Kanton Zürich",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5496764,
+            47.4299827
+          ],
+          [
+            8.5497549,
+            47.4300075
+          ],
+          [
+            8.5498203,
+            47.43005
+          ],
+          [
+            8.5498574,
+            47.430094
+          ],
+          [
+            8.5498733,
+            47.4301417
+          ],
+          [
+            8.5498736,
+            47.4302964
+          ],
+          [
+            8.5498756,
+            47.4303681
+          ],
+          [
+            8.5499138,
+            47.4304358
+          ],
+          [
+            8.5499819,
+            47.4304921
+          ],
+          [
+            8.5500566,
+            47.4305317
+          ],
+          [
+            8.5502495,
+            47.4306012
+          ],
+          [
+            8.5503342,
+            47.4306497
+          ],
+          [
+            8.5503748,
+            47.4307021
+          ],
+          [
+            8.5503908,
+            47.4307548
+          ],
+          [
+            8.5503844,
+            47.4308001
+          ],
+          [
+            8.5503707,
+            47.430836
+          ],
+          [
+            8.5503202,
+            47.4308937
+          ],
+          [
+            8.5502613,
+            47.4309286
+          ],
+          [
+            8.5501907,
+            47.4309495
+          ],
+          [
+            8.5500893,
+            47.4309555
+          ],
+          [
+            8.5500141,
+            47.4309457
+          ],
+          [
+            8.5499348,
+            47.4309182
+          ],
+          [
+            8.5498734,
+            47.430871
+          ],
+          [
+            8.5498415,
+            47.4308189
+          ],
+          [
+            8.5498304,
+            47.4307587
+          ],
+          [
+            8.5498385,
+            47.4306192
+          ],
+          [
+            8.5498232,
+            47.4305538
+          ],
+          [
+            8.5497778,
+            47.4304891
+          ],
+          [
+            8.5497097,
+            47.4304363
+          ],
+          [
+            8.5496288,
+            47.4303933
+          ],
+          [
+            8.5495316,
+            47.4303611
+          ],
+          [
+            8.5494397,
+            47.4303263
+          ],
+          [
+            8.5493738,
+            47.4302865
+          ],
+          [
+            8.549335,
+            47.4302418
+          ],
+          [
+            8.5493164,
+            47.4301744
+          ],
+          [
+            8.5493262,
+            47.430121
+          ],
+          [
+            8.5493759,
+            47.4300574
+          ],
+          [
+            8.5494365,
+            47.430016
+          ],
+          [
+            8.5495148,
+            47.4299897
+          ],
+          [
+            8.5496092,
+            47.4299788
+          ],
+          [
+            8.5496764,
+            47.4299827
+          ]
+        ]
+      },
+      "id": "way/10559093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/36734067",
+        "highway": "residential",
+        "junction": "roundabout",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Wolfswinkel",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5116276,
+            47.4247728
+          ],
+          [
+            8.51161,
+            47.4247448
+          ],
+          [
+            8.5116112,
+            47.4247021
+          ],
+          [
+            8.5116303,
+            47.4246745
+          ],
+          [
+            8.5116747,
+            47.4246478
+          ]
+        ]
+      },
+      "id": "way/36734067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38693761",
+        "highway": "residential",
+        "junction": "roundabout",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Kirchenackerweg",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5538083,
+            47.409446
+          ],
+          [
+            8.5537905,
+            47.4094587
+          ],
+          [
+            8.5537674,
+            47.4094667
+          ],
+          [
+            8.5537417,
+            47.4094691
+          ],
+          [
+            8.5537176,
+            47.4094659
+          ],
+          [
+            8.5536962,
+            47.4094577
+          ],
+          [
+            8.5536797,
+            47.4094454
+          ],
+          [
+            8.5536697,
+            47.4094303
+          ],
+          [
+            8.5536673,
+            47.4094137
+          ],
+          [
+            8.5536727,
+            47.4093974
+          ],
+          [
+            8.5536936,
+            47.4093775
+          ],
+          [
+            8.5537256,
+            47.4093662
+          ],
+          [
+            8.5537616,
+            47.409366
+          ],
+          [
+            8.5537841,
+            47.4093721
+          ],
+          [
+            8.5538027,
+            47.4093827
+          ],
+          [
+            8.5538154,
+            47.4093966
+          ],
+          [
+            8.5538212,
+            47.4094126
+          ],
+          [
+            8.553819,
+            47.40943
+          ],
+          [
+            8.5538083,
+            47.409446
+          ]
+        ]
+      },
+      "id": "way/38693761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/71013913",
+        "bridge": "yes",
+        "fixme": "resurvey",
+        "highway": "service",
+        "junction": "roundabout",
+        "layer": "1",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5050396,
+            47.3902739
+          ],
+          [
+            8.5050172,
+            47.3902588
+          ],
+          [
+            8.5050036,
+            47.3902395
+          ],
+          [
+            8.5050004,
+            47.3902181
+          ],
+          [
+            8.5050079,
+            47.3901977
+          ],
+          [
+            8.5050251,
+            47.3901801
+          ],
+          [
+            8.5050499,
+            47.3901673
+          ],
+          [
+            8.5050796,
+            47.3901609
+          ],
+          [
+            8.5051108,
+            47.3901616
+          ],
+          [
+            8.5051398,
+            47.3901693
+          ],
+          [
+            8.5051634,
+            47.390183
+          ],
+          [
+            8.5051788,
+            47.3902014
+          ],
+          [
+            8.5051844,
+            47.3902221
+          ],
+          [
+            8.5051812,
+            47.390239
+          ],
+          [
+            8.5051714,
+            47.3902547
+          ],
+          [
+            8.5051556,
+            47.390268
+          ],
+          [
+            8.5051297,
+            47.3902797
+          ],
+          [
+            8.5050994,
+            47.3902849
+          ],
+          [
+            8.5050683,
+            47.3902829
+          ],
+          [
+            8.5050396,
+            47.3902739
+          ]
+        ]
+      },
+      "id": "way/71013913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/143738524",
+        "cycleway:both": "no",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Albisriederplatz",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "wikidata": "Q23784138",
+        "wikipedia": "de:Albisriederplatz"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.510064,
+            47.3784419
+          ],
+          [
+            8.5099723,
+            47.3784176
+          ],
+          [
+            8.509928,
+            47.3783843
+          ],
+          [
+            8.5098392,
+            47.3783116
+          ]
+        ]
+      },
+      "id": "way/143738524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/321924425",
+        "highway": "service",
+        "junction": "roundabout"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5487149,
+            47.3987776
+          ],
+          [
+            8.548746,
+            47.3987574
+          ],
+          [
+            8.5487852,
+            47.3987453
+          ],
+          [
+            8.5488284,
+            47.3987429
+          ],
+          [
+            8.5488704,
+            47.3987503
+          ],
+          [
+            8.5489062,
+            47.3987669
+          ],
+          [
+            8.5489317,
+            47.3987906
+          ],
+          [
+            8.548944,
+            47.3988188
+          ],
+          [
+            8.5489416,
+            47.3988481
+          ],
+          [
+            8.5489248,
+            47.3988752
+          ],
+          [
+            8.5489053,
+            47.3988897
+          ],
+          [
+            8.5488955,
+            47.3988969
+          ],
+          [
+            8.5488572,
+            47.3989107
+          ],
+          [
+            8.5488143,
+            47.3989149
+          ],
+          [
+            8.5487718,
+            47.3989092
+          ],
+          [
+            8.5487397,
+            47.398897
+          ],
+          [
+            8.5487141,
+            47.3988792
+          ],
+          [
+            8.5486971,
+            47.3988571
+          ],
+          [
+            8.5486902,
+            47.3988326
+          ],
+          [
+            8.5486956,
+            47.3988037
+          ],
+          [
+            8.5487149,
+            47.3987776
+          ]
+        ]
+      },
+      "id": "way/321924425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/371721467",
+        "cycleway:both": "no",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "lcn": "yes",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Albisriederplatz",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "wikidata": "Q23784138",
+        "wikipedia": "de:Albisriederplatz"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5099369,
+            47.3781712
+          ],
+          [
+            8.5100175,
+            47.3781241
+          ],
+          [
+            8.5101204,
+            47.3780891
+          ],
+          [
+            8.510213,
+            47.3780698
+          ],
+          [
+            8.5103276,
+            47.3780526
+          ],
+          [
+            8.5104752,
+            47.3780531
+          ],
+          [
+            8.5105665,
+            47.3780731
+          ]
+        ]
+      },
+      "id": "way/371721467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/371721468",
+        "cycleway:both": "no",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Albisriederplatz",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "wikidata": "Q23784138",
+        "wikipedia": "de:Albisriederplatz"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5105665,
+            47.3780731
+          ],
+          [
+            8.5106611,
+            47.3781136
+          ],
+          [
+            8.5106952,
+            47.3781582
+          ],
+          [
+            8.5107072,
+            47.3782029
+          ]
+        ]
+      },
+      "id": "way/371721468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/371721469",
+        "cycleway:both": "no",
+        "highway": "tertiary",
+        "junction": "roundabout",
+        "lcn": "yes",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Albisriederplatz",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "wikidata": "Q23784138",
+        "wikipedia": "de:Albisriederplatz"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5106571,
+            47.3782652
+          ],
+          [
+            8.5106074,
+            47.3783148
+          ],
+          [
+            8.5105356,
+            47.3783532
+          ],
+          [
+            8.5104648,
+            47.3783812
+          ],
+          [
+            8.5103606,
+            47.3784115
+          ],
+          [
+            8.5102326,
+            47.3784417
+          ]
+        ]
+      },
+      "id": "way/371721469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/374541881",
+        "cycleway:both": "no",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "lcn": "yes",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Albisriederplatz",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "wikidata": "Q23784138",
+        "wikipedia": "de:Albisriederplatz"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5107072,
+            47.3782029
+          ],
+          [
+            8.5106908,
+            47.3782315
+          ],
+          [
+            8.5106571,
+            47.3782652
+          ]
+        ]
+      },
+      "id": "way/374541881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/375494802",
+        "highway": "residential",
+        "junction": "roundabout",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Wolfswinkel",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5118422,
+            47.4246741
+          ],
+          [
+            8.5118615,
+            47.4247017
+          ],
+          [
+            8.5118658,
+            47.424732
+          ],
+          [
+            8.5118618,
+            47.4247478
+          ],
+          [
+            8.5118427,
+            47.4247754
+          ],
+          [
+            8.511794,
+            47.4248037
+          ],
+          [
+            8.5117507,
+            47.4248123
+          ],
+          [
+            8.5117056,
+            47.4248103
+          ],
+          [
+            8.5116643,
+            47.424798
+          ],
+          [
+            8.5116276,
+            47.4247728
+          ]
+        ]
+      },
+      "id": "way/375494802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/375494803",
+        "highway": "residential",
+        "junction": "roundabout",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Wolfswinkel",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5116747,
+            47.4246478
+          ],
+          [
+            8.5117175,
+            47.4246382
+          ],
+          [
+            8.5117758,
+            47.4246414
+          ],
+          [
+            8.5118157,
+            47.4246555
+          ],
+          [
+            8.5118422,
+            47.4246741
+          ]
+        ]
+      },
+      "id": "way/375494803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/500735198",
+        "cycleway:both": "no",
+        "highway": "tertiary",
+        "junction": "roundabout",
+        "lcn": "yes",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Albisriederplatz",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "wikidata": "Q23784138",
+        "wikipedia": "de:Albisriederplatz"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5098392,
+            47.3783116
+          ],
+          [
+            8.5098898,
+            47.378224
+          ]
+        ]
+      },
+      "id": "way/500735198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/500735199",
+        "cycleway:both": "no",
+        "highway": "tertiary",
+        "junction": "roundabout",
+        "lcn": "yes",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Albisriederplatz",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "wikidata": "Q23784138",
+        "wikipedia": "de:Albisriederplatz"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5098898,
+            47.378224
+          ],
+          [
+            8.5099369,
+            47.3781712
+          ]
+        ]
+      },
+      "id": "way/500735199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/536844180",
+        "cycleway:both": "no",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "lcn": "yes",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Albisriederplatz",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "wikidata": "Q23784138",
+        "wikipedia": "de:Albisriederplatz"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5102326,
+            47.3784417
+          ],
+          [
+            8.5101481,
+            47.378443
+          ],
+          [
+            8.510064,
+            47.3784419
+          ]
+        ]
+      },
+      "id": "way/536844180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/553296580",
+        "highway": "tertiary",
+        "junction": "roundabout",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Hardstrasse",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5181873,
+            47.3861058
+          ],
+          [
+            8.5182237,
+            47.3861131
+          ],
+          [
+            8.5182549,
+            47.3861277
+          ],
+          [
+            8.518278,
+            47.3861481
+          ],
+          [
+            8.5182906,
+            47.3861723
+          ],
+          [
+            8.5182916,
+            47.386198
+          ],
+          [
+            8.5182807,
+            47.3862226
+          ],
+          [
+            8.5182592,
+            47.3862437
+          ],
+          [
+            8.5182291,
+            47.3862594
+          ],
+          [
+            8.5181933,
+            47.3862679
+          ],
+          [
+            8.5181554,
+            47.3862685
+          ],
+          [
+            8.518119,
+            47.3862612
+          ],
+          [
+            8.5180878,
+            47.3862466
+          ],
+          [
+            8.5180647,
+            47.3862262
+          ],
+          [
+            8.5180521,
+            47.386202
+          ],
+          [
+            8.5180512,
+            47.3861763
+          ],
+          [
+            8.518062,
+            47.3861517
+          ],
+          [
+            8.5180835,
+            47.3861306
+          ],
+          [
+            8.5181136,
+            47.386115
+          ],
+          [
+            8.5181494,
+            47.3861064
+          ],
+          [
+            8.5181873,
+            47.3861058
+          ]
+        ]
+      },
+      "id": "way/553296580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/27493675",
+        "highway": "mini_roundabout"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5490256,
+          47.3924088
+        ]
+      },
+      "id": "node/27493675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4047432001",
+        "direction": "anticlockwise",
+        "highway": "mini_roundabout"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5053857,
+          47.4084616
+        ]
+      },
+      "id": "node/4047432001"
+    }
+  ]
+}

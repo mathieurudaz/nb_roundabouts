@@ -1,0 +1,1232 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-03-14T15:15:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4623017",
+        "highway": "primary",
+        "junction": "roundabout",
+        "maxspeed": "50",
+        "name": "Mühlentalkreisel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6305198,
+            47.724005
+          ],
+          [
+            8.6304626,
+            47.7239809
+          ],
+          [
+            8.6304225,
+            47.7239119
+          ],
+          [
+            8.6304404,
+            47.7238677
+          ],
+          [
+            8.630477,
+            47.7238389
+          ],
+          [
+            8.6305404,
+            47.72382
+          ]
+        ]
+      },
+      "id": "way/4623017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4698506",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "maxspeed": "50",
+        "name": "Mühlentalkreisel Spitalstrasse",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6326907,
+            47.6993033
+          ],
+          [
+            8.6326669,
+            47.6992831
+          ],
+          [
+            8.6326535,
+            47.6992533
+          ],
+          [
+            8.632657,
+            47.6992271
+          ],
+          [
+            8.6326678,
+            47.6992094
+          ],
+          [
+            8.6326927,
+            47.6991891
+          ],
+          [
+            8.6327283,
+            47.6991754
+          ]
+        ]
+      },
+      "id": "way/4698506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4733477",
+        "highway": "primary",
+        "junction": "roundabout",
+        "maxspeed": "50",
+        "name": "Rodell Stettemerstrasse/Schweizersbildstrasse"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6504669,
+            47.7186928
+          ],
+          [
+            8.6505043,
+            47.7186889
+          ],
+          [
+            8.6505406,
+            47.7186924
+          ],
+          [
+            8.6505738,
+            47.7187028
+          ],
+          [
+            8.6506012,
+            47.7187192
+          ],
+          [
+            8.6506204,
+            47.7187402
+          ],
+          [
+            8.6506298,
+            47.718764
+          ],
+          [
+            8.6506282,
+            47.7187899
+          ],
+          [
+            8.6506151,
+            47.7188142
+          ],
+          [
+            8.6505918,
+            47.7188347
+          ],
+          [
+            8.6505602,
+            47.7188496
+          ],
+          [
+            8.6505235,
+            47.7188573
+          ],
+          [
+            8.6504864,
+            47.7188573
+          ],
+          [
+            8.6504509,
+            47.7188501
+          ],
+          [
+            8.6504201,
+            47.7188362
+          ],
+          [
+            8.6503966,
+            47.7188169
+          ],
+          [
+            8.6503825,
+            47.7187938
+          ],
+          [
+            8.6503791,
+            47.7187685
+          ],
+          [
+            8.650387,
+            47.7187436
+          ],
+          [
+            8.6504055,
+            47.7187215
+          ],
+          [
+            8.650433,
+            47.718704
+          ],
+          [
+            8.6504669,
+            47.7186928
+          ]
+        ]
+      },
+      "id": "way/4733477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4821026",
+        "highway": "service",
+        "junction": "roundabout"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6186363,
+            47.7183566
+          ],
+          [
+            8.6184545,
+            47.718323
+          ],
+          [
+            8.6185222,
+            47.7182029
+          ]
+        ]
+      },
+      "id": "way/4821026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/26012156",
+        "highway": "residential",
+        "junction": "roundabout",
+        "name": "Jägerstrasse"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6448177,
+            47.7172144
+          ],
+          [
+            8.6448723,
+            47.7171774
+          ],
+          [
+            8.6449468,
+            47.7171784
+          ],
+          [
+            8.644998,
+            47.7172148
+          ],
+          [
+            8.6449942,
+            47.7172667
+          ],
+          [
+            8.6449643,
+            47.7172819
+          ],
+          [
+            8.6449413,
+            47.7172987
+          ],
+          [
+            8.6449017,
+            47.7173015
+          ],
+          [
+            8.644853,
+            47.7172913
+          ],
+          [
+            8.6448139,
+            47.7172531
+          ],
+          [
+            8.6448177,
+            47.7172144
+          ]
+        ]
+      },
+      "id": "way/26012156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/26094859",
+        "highway": "residential",
+        "junction": "roundabout"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6606656,
+            47.7277457
+          ],
+          [
+            8.6607025,
+            47.7277465
+          ],
+          [
+            8.6607372,
+            47.7277549
+          ],
+          [
+            8.6607664,
+            47.7277702
+          ],
+          [
+            8.660787,
+            47.7277908
+          ],
+          [
+            8.6607972,
+            47.7278147
+          ],
+          [
+            8.6607958,
+            47.7278395
+          ],
+          [
+            8.660783,
+            47.7278629
+          ],
+          [
+            8.6607601,
+            47.7278824
+          ],
+          [
+            8.6607294,
+            47.7278961
+          ],
+          [
+            8.6606938,
+            47.7279028
+          ],
+          [
+            8.6606532,
+            47.7279012
+          ],
+          [
+            8.6606158,
+            47.7278903
+          ],
+          [
+            8.6605862,
+            47.7278716
+          ],
+          [
+            8.6605678,
+            47.7278471
+          ],
+          [
+            8.6605629,
+            47.72782
+          ],
+          [
+            8.6605721,
+            47.7277933
+          ],
+          [
+            8.6605943,
+            47.7277703
+          ],
+          [
+            8.6606267,
+            47.7277538
+          ],
+          [
+            8.6606656,
+            47.7277457
+          ]
+        ]
+      },
+      "id": "way/26094859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/226094331",
+        "highway": "tertiary",
+        "junction": "roundabout",
+        "maxspeed": "50",
+        "name": "Breite-Kreisel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6261307,
+            47.7002436
+          ],
+          [
+            8.6261854,
+            47.7001728
+          ],
+          [
+            8.6262112,
+            47.7001497
+          ]
+        ]
+      },
+      "id": "way/226094331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/226094334",
+        "highway": "tertiary",
+        "junction": "roundabout",
+        "maxspeed": "50",
+        "name": "Breite-Kreisel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6264485,
+            47.7003059
+          ],
+          [
+            8.6264311,
+            47.7003194
+          ],
+          [
+            8.6263372,
+            47.7003501
+          ],
+          [
+            8.6262621,
+            47.7003591
+          ]
+        ]
+      },
+      "id": "way/226094334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/226094760",
+        "highway": "service",
+        "junction": "roundabout"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6185222,
+            47.7182029
+          ],
+          [
+            8.6186896,
+            47.7182356
+          ]
+        ]
+      },
+      "id": "way/226094760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/226210597",
+        "highway": "tertiary",
+        "junction": "roundabout",
+        "maxspeed": "50",
+        "name": "Breite-Kreisel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6262112,
+            47.7001497
+          ],
+          [
+            8.6263356,
+            47.7001209
+          ],
+          [
+            8.6263958,
+            47.7001196
+          ],
+          [
+            8.6264618,
+            47.7001494
+          ],
+          [
+            8.6265038,
+            47.7001939
+          ],
+          [
+            8.626492,
+            47.700264
+          ],
+          [
+            8.6264485,
+            47.7003059
+          ]
+        ]
+      },
+      "id": "way/226210597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/226219793",
+        "highway": "primary",
+        "junction": "roundabout",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Herblinger Kreisel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6533648,
+            47.7172557
+          ],
+          [
+            8.653361,
+            47.717217
+          ],
+          [
+            8.6533781,
+            47.7171799
+          ],
+          [
+            8.653414,
+            47.7171494
+          ],
+          [
+            8.6534638,
+            47.7171298
+          ],
+          [
+            8.6535157,
+            47.7171235
+          ],
+          [
+            8.6535678,
+            47.717129
+          ],
+          [
+            8.6536142,
+            47.7171458
+          ],
+          [
+            8.6536497,
+            47.717172
+          ],
+          [
+            8.6536705,
+            47.7172046
+          ],
+          [
+            8.6536732,
+            47.7172446
+          ],
+          [
+            8.6536537,
+            47.7172824
+          ],
+          [
+            8.6536148,
+            47.7173126
+          ],
+          [
+            8.653562,
+            47.717331
+          ],
+          [
+            8.6534994,
+            47.7173346
+          ],
+          [
+            8.6534396,
+            47.7173215
+          ],
+          [
+            8.6533923,
+            47.7172937
+          ],
+          [
+            8.6533648,
+            47.7172557
+          ]
+        ]
+      },
+      "id": "way/226219793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/226221313",
+        "highway": "tertiary",
+        "junction": "roundabout",
+        "maxspeed": "50",
+        "name": "Breite-Kreisel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6262621,
+            47.7003591
+          ],
+          [
+            8.626185,
+            47.7003306
+          ],
+          [
+            8.6261405,
+            47.7002801
+          ]
+        ]
+      },
+      "id": "way/226221313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/226221316",
+        "highway": "tertiary",
+        "junction": "roundabout",
+        "maxspeed": "50",
+        "name": "Breite-Kreisel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6261405,
+            47.7002801
+          ],
+          [
+            8.6261307,
+            47.7002436
+          ]
+        ]
+      },
+      "id": "way/226221316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/226224722",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "maxspeed": "50",
+        "name": "Mühlentalkreisel Spitalstrasse",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6327283,
+            47.6991754
+          ],
+          [
+            8.6327704,
+            47.6991712
+          ],
+          [
+            8.6328135,
+            47.6991783
+          ],
+          [
+            8.6328503,
+            47.6991969
+          ],
+          [
+            8.6328753,
+            47.6992299
+          ],
+          [
+            8.632876,
+            47.6992617
+          ],
+          [
+            8.6328617,
+            47.6992862
+          ],
+          [
+            8.6328378,
+            47.6993049
+          ],
+          [
+            8.6328177,
+            47.699314
+          ]
+        ]
+      },
+      "id": "way/226224722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/226310243",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "maxspeed": "50",
+        "name": "Mühlentalkreisel Spitalstrasse",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6328177,
+            47.699314
+          ],
+          [
+            8.6327804,
+            47.6993219
+          ],
+          [
+            8.6327424,
+            47.6993209
+          ],
+          [
+            8.6326907,
+            47.6993033
+          ]
+        ]
+      },
+      "id": "way/226310243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/226310247",
+        "highway": "primary",
+        "junction": "roundabout",
+        "maxspeed": "50",
+        "name": "Mühlentalkreisel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6305404,
+            47.72382
+          ],
+          [
+            8.6305956,
+            47.7238208
+          ],
+          [
+            8.6306544,
+            47.72384
+          ],
+          [
+            8.6307047,
+            47.7238973
+          ],
+          [
+            8.6306966,
+            47.72395
+          ],
+          [
+            8.6306677,
+            47.7239802
+          ],
+          [
+            8.6305733,
+            47.7240097
+          ],
+          [
+            8.6305198,
+            47.724005
+          ]
+        ]
+      },
+      "id": "way/226310247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/287221384",
+        "highway": "tertiary",
+        "junction": "roundabout",
+        "name": "Gennersbrunnerstrasse",
+        "start_date": "2014"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6633734,
+            47.7168798
+          ],
+          [
+            8.6633341,
+            47.716869
+          ],
+          [
+            8.6632999,
+            47.7168522
+          ],
+          [
+            8.6632727,
+            47.7168303
+          ],
+          [
+            8.6632541,
+            47.7168047
+          ],
+          [
+            8.6632447,
+            47.7167603
+          ],
+          [
+            8.6632608,
+            47.7167168
+          ],
+          [
+            8.6632998,
+            47.7166804
+          ],
+          [
+            8.6633562,
+            47.7166565
+          ],
+          [
+            8.6634219,
+            47.7166486
+          ],
+          [
+            8.6634871,
+            47.7166577
+          ],
+          [
+            8.6635552,
+            47.7166919
+          ],
+          [
+            8.6635854,
+            47.7167288
+          ],
+          [
+            8.6635943,
+            47.7167705
+          ],
+          [
+            8.663581,
+            47.7168116
+          ],
+          [
+            8.6635469,
+            47.7168469
+          ],
+          [
+            8.6634966,
+            47.716872
+          ],
+          [
+            8.6634364,
+            47.7168834
+          ],
+          [
+            8.6633734,
+            47.7168798
+          ]
+        ]
+      },
+      "id": "way/287221384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/307143632",
+        "highway": "primary",
+        "junction": "roundabout",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Hochstrasse"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6499183,
+            47.7173911
+          ],
+          [
+            8.6498473,
+            47.7173904
+          ],
+          [
+            8.649788,
+            47.7173641
+          ],
+          [
+            8.6497593,
+            47.7173203
+          ],
+          [
+            8.6497704,
+            47.717273
+          ],
+          [
+            8.6498176,
+            47.7172373
+          ],
+          [
+            8.6498861,
+            47.7172245
+          ],
+          [
+            8.649954,
+            47.7172386
+          ],
+          [
+            8.6499999,
+            47.7172751
+          ],
+          [
+            8.650009,
+            47.7173225
+          ],
+          [
+            8.6499787,
+            47.7173658
+          ],
+          [
+            8.6499183,
+            47.7173911
+          ]
+        ]
+      },
+      "id": "way/307143632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/449084291",
+        "highway": "service",
+        "junction": "roundabout"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6186896,
+            47.7182356
+          ],
+          [
+            8.6186363,
+            47.7183566
+          ]
+        ]
+      },
+      "id": "way/449084291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/42758444",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "layer": "1",
+        "maxspeed": "50",
+        "name": "Obertor",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 296168,
+            "reltags": {
+              "junction": "roundabout",
+              "type": "junction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6312893,
+            47.6966952
+          ],
+          [
+            8.6312401,
+            47.6966908
+          ]
+        ]
+      },
+      "id": "way/42758444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/226091873",
+        "bridge": "yes",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "layer": "1",
+        "maxspeed": "50",
+        "name": "Obertor",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 296168,
+            "reltags": {
+              "junction": "roundabout",
+              "type": "junction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6314518,
+            47.6965885
+          ],
+          [
+            8.6314437,
+            47.6966148
+          ],
+          [
+            8.6314183,
+            47.6966501
+          ]
+        ]
+      },
+      "id": "way/226091873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/226091874",
+        "bridge": "yes",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "layer": "1",
+        "maxspeed": "50",
+        "name": "Obertor",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 296168,
+            "reltags": {
+              "junction": "roundabout",
+              "type": "junction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6314183,
+            47.6966501
+          ],
+          [
+            8.631405,
+            47.6966612
+          ],
+          [
+            8.6313736,
+            47.6966786
+          ],
+          [
+            8.6313387,
+            47.6966908
+          ],
+          [
+            8.6312893,
+            47.6966952
+          ]
+        ]
+      },
+      "id": "way/226091874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/226095249",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "maxspeed": "50",
+        "name": "Obertor",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 296168,
+            "reltags": {
+              "junction": "roundabout",
+              "type": "junction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6312192,
+            47.6964794
+          ],
+          [
+            8.631258,
+            47.6964747
+          ]
+        ]
+      },
+      "id": "way/226095249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/226224717",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "layer": "1",
+        "maxspeed": "50",
+        "name": "Obertor",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 296168,
+            "reltags": {
+              "junction": "roundabout",
+              "type": "junction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6312401,
+            47.6966908
+          ],
+          [
+            8.6311658,
+            47.6966529
+          ],
+          [
+            8.6311316,
+            47.6966081
+          ],
+          [
+            8.6311305,
+            47.696558
+          ],
+          [
+            8.6311557,
+            47.6965196
+          ],
+          [
+            8.6312192,
+            47.6964794
+          ]
+        ]
+      },
+      "id": "way/226224717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/291397645",
+        "bridge": "yes",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "lanes": "1",
+        "layer": "1",
+        "maxspeed": "50",
+        "name": "Obertor",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 296168,
+            "reltags": {
+              "junction": "roundabout",
+              "type": "junction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.631258,
+            47.6964747
+          ],
+          [
+            8.631303,
+            47.6964741
+          ],
+          [
+            8.6313693,
+            47.6964891
+          ],
+          [
+            8.6314146,
+            47.6965135
+          ],
+          [
+            8.6314351,
+            47.6965346
+          ],
+          [
+            8.6314518,
+            47.6965885
+          ]
+        ]
+      },
+      "id": "way/291397645"
+    }
+  ]
+}

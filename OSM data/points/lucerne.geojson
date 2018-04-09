@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32632" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "node\/28197931", "@id": "node\/28197931", "highway": "mini_roundabout", "junction": null, "bicycle": null, "maxspeed": null, "name": null, "trolley_wire": null, "layer": null, "surface": null, "maxspeed:source": null, "loc_ref": null, "nat_ref": null, "ref": null, "lit": null, "cycleway:right": null, "lanes": null, "turn:lanes": null, "cycleway": null }, "geometry": { "type": "Point", "coordinates": [ 447247.326461474469397, 5210528.135302745737135 ] } },
+{ "type": "Feature", "properties": { "id": "node\/327473578", "@id": "node\/327473578", "highway": "mini_roundabout", "junction": null, "bicycle": null, "maxspeed": null, "name": null, "trolley_wire": null, "layer": null, "surface": null, "maxspeed:source": null, "loc_ref": null, "nat_ref": null, "ref": null, "lit": null, "cycleway:right": null, "lanes": null, "turn:lanes": null, "cycleway": null }, "geometry": { "type": "Point", "coordinates": [ 446932.591920247126836, 5210450.562675218097866 ] } },
+{ "type": "Feature", "properties": { "id": "node\/466485404", "@id": "node\/466485404", "highway": "mini_roundabout", "junction": null, "bicycle": null, "maxspeed": null, "name": null, "trolley_wire": null, "layer": null, "surface": null, "maxspeed:source": null, "loc_ref": null, "nat_ref": null, "ref": null, "lit": null, "cycleway:right": null, "lanes": null, "turn:lanes": null, "cycleway": null }, "geometry": { "type": "Point", "coordinates": [ 443926.38928190106526, 5211071.987505421042442 ] } }
+]
+}
